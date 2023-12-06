@@ -114,7 +114,7 @@ As for the aesthetic decisions, one could say that they were ambiguous, to say t
 
 In order to offer a better understanding of the above-mentioned decisions, here are the main palettes, as well as some notes regarding what _I_ see whenever I pilot these specific EVAs:
 
-1. EVA-00
+1. **EVA-00**
 - ![#D8DEE9](https://placehold.co/15x15/D8DEE9/D8DEE9.png) `#D8DEE9`
 - ![#CBD6D7](https://placehold.co/15x15/CBD6D7/CBD6D7.png) `#CBD6D7`
 - ![#A5BDD6](https://placehold.co/15x15/A5BDD6/A5BDD6.png) `#A5BDD6`
@@ -129,7 +129,7 @@ In order to offer a better understanding of the above-mentioned decisions, here 
 Although it could have been way easier to go for a light theme consisting of white, black, and blueish tones capturing both the mecha and Rei's distant aura, the truth is that I faced some inner challenges while representing the EVA-00. In this case, a good part of the original palette stayed safe and sound, and yet some of Rei's scenes interfered with the creative process and its derivations - to the point that the theme itself resulted in a condensation of how I perceive Rei Ayanami from a chromatic standpoint: the lights, shadows, attitude, answers, the blood. This terrible, bloody eye.
 Given that her character arc is one of mystery, introspection, and philosophical exploration, I decided that following an abstract interpretation of the original color scheme, the orange version of it, and some of Rei's chromatic tendencies would be as valid as keeping the original palettes intact. What are we supposed to be? Clones? Clones cloning color schemes? (_Oh, God. I can't stand my own sense of humor._)
 
-2. EVA-01
+2. **EVA-01**
 - ![#C99EC7](https://placehold.co/15x15/C99EC7/C99EC7.png) `#C99EC7`
 - ![#B0A8DB](https://placehold.co/15x15/B0A8DB/B0A8DB.png) `#B0A8DB`
 - ![#986FD8](https://placehold.co/15x15/986FD8/986FD8.png) `#986FD8`
@@ -143,7 +143,7 @@ Given that her character arc is one of mystery, introspection, and philosophical
 
 I'd want to say that I'm sorry for using such strident tonalities, but actually, `I am not!` All jokes aside, and as stated before, I intended to keep this specific EVA (_my_ EVA, huh?), as well as Asuka's, as close to the original models as possible. I understand that it can be a little bit too much for some delicate retinas, and yet there's no way I'd miss the opportunity of graphically communicating the savageness and implicit (explicit, too) monstrosity in the design and color scheme of the EVA-01. Why? Because even though the pseudo-religious storyline and iconography can fuel most of our nightmares quite a lot already, the series' uniqueness exists also in the mecha design, as well as the nearly animalistic battle frenzy some of these "bio-mechanical creations" get to experience. EVA-01 is one of our first interactions with this openly disturbing nature so closely related to what we could consider body horror - and the way it captures such atmosphere and reality goes beyond actions themselves. Terrible and visceral beyond doubt, this one. Captivating.
 
-3. EVA-02
+3. **EVA-02**
 - ![#ECE3DC](https://placehold.co/15x15/ECE3DC/ECE3DC.png) `#ECE3DC`
 - ![#80BDA9](https://placehold.co/15x15/80BDA9/80BDA9.png) `#80BDA9`
 - ![#E36526](https://placehold.co/15x15/E36526/E36526.png) `#E36526`
@@ -155,7 +155,7 @@ Assertiveness. Confidence. Sometimes a confrontational attitude, too. The colors
 Do you remember Majora's Mask, though? 
 > Your true face... What kind of face is it? I wonder... The face under the mask - is that your true face? 
 
-4. BONUS TRACK: The End of Development
+4. **BONUS TRACK: The End of Development**
 <p align="center">
   <img src="https://github.com/JuditKaramazov/TCA-EVASCode/blob/9b562843a9a863ff4d93843453f370f34e8a0ed5/images/EVASCode-02.png" alt="The End of Development theme visual asset." > 
 </p>
