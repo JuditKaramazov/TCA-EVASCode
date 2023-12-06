@@ -1,0 +1,47 @@
+{
+    "name": "evas-code",
+    "displayName": "EVASCode: The End of Development",
+    "description": "A bunch VSCode themes inspired by Evangelion.",
+    "version": "0.0.1",
+    "publisher": "TecnoMazov",
+    "repository": "https://github.com/JuditKaramazov/TCA-EVASCode",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "icon": "images/EVASCode.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "EVA-00",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EVA-00.json"
+            },
+            {
+                "label": "EVA-01",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EVA-01.json"
+            },
+            {
+                "label": "EVA-02",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EVA-02.json"
+            },
+            {
+                "label": "The End of Development",
+                "uiTheme": "hc-light",
+                "path": "./themes/BONUS-End-Of.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "publisherDisplayName": "Judit Karamazov",
+        "publisherId": "tecnomazov",
+        "uniqueId": "tecnomazov.evas-code",
+        "github": "https://github.com/JuditKaramazov",
+        "repository": "https://github.com/JuditKaramazov/TCA-EVASCode.git",
+        "url": "https://karamazfolio.xyz"
+    }
+}
