@@ -64,7 +64,7 @@ npx vsce package
 This will allow us to package our themes into a .vsix file. Finally:
 
 ```fish
-code --install-extension evas-code-0.0.1.vsix
+code --install-extension evas-code-1.0.0.vsix
 ```
 
 Now, you are ready to run and test the themes locally. Bear in mind that VSCode does not provide a direct way to preview theme changes in real-time without packaging and installing the extension, but if you want to keep track of your changes and additions without constantly packaging, installing, and restarting your editor, you can simply create a new instance of VSCode, press `F5` (or `Run` menu), open a new `Development Host` window and, finally, `Start Debugging`. After making changes to your theme files, you can reload the extension by clicking the refresh icon in the top left corner of the instance launched in development mode, which facilitates _a lot_ the testing process. Remember, however, that this method is for previewing changes during development; once you are satisfied with the changes, you would still need to package and install the extension for others to use - like me! _All of us, all of us, all of us..._
@@ -179,7 +179,7 @@ Now, the Promised Time: I already expressed the importance of keeping EVA-01 and
 
 Thank you.
 
-As for the rest of you guys, please note that while I'm trying my best to improve and explore different possibilities, there might be some inconsistencies, bugs and errors that will surely be addressed in the future. Do not hesitate to let me know about it, though! If necessary, you can open an issue, and I'll gladly try my best to make these themes as consistent as possible.
+As for the rest of you guys, please note that while I'm trying my best to improve and explore different possibilities, there might be some inconsistencies, bugs and errors that will surely be addressed in the future. Do not hesitate to let me know about it, though! If necessary, you can [open an issue](https://github.com/JuditKaramazov/TCA-EVASCode/issues), and I'll gladly try my best to make these themes as consistent as possible.
 
 Oh, and remember that you can make the Dinosaur extremely happy if you...
 <br />
