@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=tecnomazov.evas-code">
-    <img src="https://github.com/JuditKaramazov/TCA-EVASCode/blob/9b562843a9a863ff4d93843453f370f34e8a0ed5/images/EVASCode.png" width="300" height="300" alt="EVASCode original logo.">
+    <img src="https://raw.githubusercontent.com/JuditKaramazov/TCA-EVASCode/main/images/EVASCode.png" width="300" height="300" alt="EVASCode original logo.">
   </a>
 </p>
 <h1 align="center">
@@ -72,7 +72,7 @@ Now, you are ready to run and test the themes locally. Bear in mind that VSCode 
 ## Introduction
 
 <p align="center">
-  <img src="https://github.com/JuditKaramazov/TCA-EVASCode/blob/9b562843a9a863ff4d93843453f370f34e8a0ed5/images/EVASCode-01.png" alt="EVASCode visual asset." > 
+  <img src="https://raw.githubusercontent.com/JuditKaramazov/TCA-EVASCode/main/images/EVASCode-01.png" alt="EVASCode visual asset." > 
 </p>
 
 "Why do you pilot an EVA?"
@@ -91,7 +91,7 @@ Now, why do you pilot an EVA?
 "This is the world you wished for."
 
 <p align="center">
-  <img src="https://github.com/JuditKaramazov/TCA-EVASCode/blob/9b562843a9a863ff4d93843453f370f34e8a0ed5/images/EVASCode-03.png" alt="EVA-00 theme visual asset.">
+  <img src="https://raw.githubusercontent.com/JuditKaramazov/TCA-EVASCode/main/images/EVASCode-03.png" alt="EVA-00 theme visual asset.">
 </p>
 
 > But as Shinji soon realizes: 'But this isn't right. This feels wrong.' There is no Otherness in Human Instrumentality. Therein, everyone absolutely understand each other. Even our personal secrets no longer become a secret (...). In the End of Evangelion, Shinji realizes that there never was a need to 'overcome' the gap between the self and the Other. As Rei tells Shinji: 'You can't bridge the gap between your own truth and the reality of others'. True overcoming is rather the realization that the gap was never an obstacle to begin with. For the gap is immanent to the thing itself. If you remove the gap or imperfection from the thing, the thing will disappear as well. If you remove the gap between the self and the Other, you will not unite the two in a harmonious whole. Instead, you will lose both at once.
@@ -99,13 +99,13 @@ Now, why do you pilot an EVA?
 Instrumentality Project'](https://drive.google.com/file/d/1YS0XY1ktnSnRSN9pj4Tsy9psYzMYrJwO/view)
 
 <p align="center">
-  <img src="https://github.com/JuditKaramazov/TCA-EVASCode/blob/9b562843a9a863ff4d93843453f370f34e8a0ed5/images/EVASCode-04.png" alt="EVA-01 theme visual asset.">
+  <img src="https://raw.githubusercontent.com/JuditKaramazov/TCA-EVASCode/main/images/EVASCode-04.png" alt="EVA-01 theme visual asset.">
 </p>
 
 > In the final scene of The End of Evangelion, we find ourselves in a lengthy silence. The silence is then broken as Shinji continues to choke Asuka. Instead of defending herself, however, Asuka caresses Shinji's cheeks. This is the first step towards love. This moment is precisely the embracing of the absolute Other (...). Shinji and Asuka, being the only two humans left on earth, will have to learn how to live with each other. Like a married couple who have to find a mode of living with each other: who will do the dishes, who will cook breakfast, etc. We can therefore say that both Human Instrumentality and depression is the inability to love. Likewise, the inability to love leads one to opt one of the two as a solution to the hedgehog's dilemma.
 
 <p align="center">
-  <img src="https://github.com/JuditKaramazov/TCA-EVASCode/blob/9b562843a9a863ff4d93843453f370f34e8a0ed5/images/EVASCode-05.png" alt="EVA-02 theme visual asset.">
+  <img src="https://raw.githubusercontent.com/JuditKaramazov/TCA-EVASCode/main/images/EVASCode-05.png" alt="EVA-02 theme visual asset.">
 </p>
 
 ## Style
@@ -157,7 +157,7 @@ Do you remember Majora's Mask, though?
 
 4. **BONUS TRACK: The End of Development**
 <p align="center">
-  <img src="https://github.com/JuditKaramazov/TCA-EVASCode/blob/9b562843a9a863ff4d93843453f370f34e8a0ed5/images/EVASCode-02.png" alt="The End of Development theme visual asset." > 
+  <img src="https://raw.githubusercontent.com/JuditKaramazov/TCA-EVASCode/main/images/EVASCode-02.png" alt="The End of Development theme visual asset." > 
 </p>
 
 - ![#FAF4ED](https://placehold.co/15x15/FAF4ED/FAF4ED.png) `#FAF4ED`
@@ -187,7 +187,7 @@ Oh, and remember that you can make the Dinosaur extremely happy if you...
 ---
 
 <h1 align="center">
-  <a href="https://karamazfolio.xyz/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Original Karama logo asset.">
+  <a href="https://karamazfolio.xyz/"><img src="https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Original Karama logo asset.">
 </h1>
 <h2 align="center">
   <a href="https://www.buymeacoffee.com/JuditKaramazov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 207px !important;" ></a>

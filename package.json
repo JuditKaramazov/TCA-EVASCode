@@ -2,7 +2,7 @@
     "name": "evas-code",
     "displayName": "EVASCode: The End of Development",
     "description": "A bunch of VSCode themes inspired by Evangelion.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "TecnoMazov",
     "repository": "https://github.com/JuditKaramazov/TCA-EVASCode",
     "engines": {
